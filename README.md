@@ -1,8 +1,10 @@
-<p><strong>And we're updating this... But stick around here for the old version! The new ALLSorts can be found here: https://github.com/Oshlack/AllSorts.</strong></p>
+
 
 <p align="center">
 <img src=https://github.com/Oshlack/Baller/blob/master/AllSorts.png height=200 />  
 </p>
+
+<p><strong>And we're updating this... But stick around here for the old version! The new ALLSorts can be found here: https://github.com/Oshlack/AllSorts.</strong></p>
 
 Welcome to the All Sorts Readme!
 
