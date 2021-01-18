@@ -23,7 +23,7 @@ Load the devtools package.
 
 Then simply use the install_github("author/package") function of devtools. So for AllSorts that would simply be:
 
-    install_github("Oshlack/AllSorts")
+    install_github("Oshlack/AllSorts_v1")
 
 Alternatively if one does not have the required BioConductor packages such as edgeR/limma one may wish to install using BiocLite. Note devtools are still required in this case.
 
